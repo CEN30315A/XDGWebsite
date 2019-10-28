@@ -38,6 +38,7 @@ This app can be deployed directly to heroku since there is a script defined in p
 ## Available Scripts
 
 In the project directory, you can run:
+-Sean was here
 
 ### `npm run-script dev`
 
